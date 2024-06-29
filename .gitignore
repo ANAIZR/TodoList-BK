@@ -2,7 +2,7 @@
 venv/
 *.pyc
 __pycache__/
-
+*/__pycache__/
 # Base de datos SQLite
 db.sqlite3
 
